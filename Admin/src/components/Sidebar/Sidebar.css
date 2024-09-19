@@ -28,7 +28,7 @@
 .sidebar-option.active {
     background-color: #fff0ed;
     border-color: tomato;
-    border-radius: 5px;
+    /* border-radius: 5px; */
 }
 
 @media (max-width:900px) {
