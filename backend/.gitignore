@@ -45,3 +45,6 @@ temp/
 
 # Production build
 public/
+
+.env
+
