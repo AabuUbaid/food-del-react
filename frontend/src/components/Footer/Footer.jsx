@@ -8,7 +8,7 @@ function Footer() {
     <div className="footer-content">
         <div className="footer-left">
         <img src={assets.logo} alt="" />
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p>Tomato Food Del App brings the joy of delicious meals right to your fingertips. Craving something fresh, spicy, or comforting? With just a few taps, dive into a world of flavors and have your favorite dishes delivered to your door, hot and ready to enjoy. Say goodbye to long waits and complicated ordering—Tomato Food Del makes it easy to explore menus, customize orders, and track your meal from kitchen to doorstep. Whether you're planning a cozy night in or feeding the whole family, we’ve got the perfect dish for every moment.</p>
         <div className="footer-social-icon">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
