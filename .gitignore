@@ -1,0 +1,12 @@
+# JetBrains / Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+android/app/build/
+
+# Node
+node_modules/
+build/
+dist/
