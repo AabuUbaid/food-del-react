@@ -2,6 +2,13 @@
 
 A full-stack food delivery web application built with React and Node.js. Users can browse menus, place orders, and pay online — while admins manage products and orders through a dedicated dashboard.
 
+## 🌐 Live Demo
+
+| App      | URL                                                                                   |
+|----------|---------------------------------------------------------------------------------------|
+| Frontend | [food-del-frontend-bxqu.onrender.com](https://food-del-frontend-bxqu.onrender.com/)  |
+| Backend  | [food-del-react-backend.onrender.com](https://food-del-react-backend.onrender.com/)  |
+
 ---
 
 ## 🗂️ Project Structure
@@ -138,9 +145,11 @@ The admin dashboard will run on `http://localhost:5174`
 
 ## 🚀 Deployment
 
-- Frontend & Admin can be deployed on **Vercel** or **Netlify**
-- Backend can be deployed on **Render** or **Railway**
-- Use **MongoDB Atlas** for cloud database
+Both the frontend and backend are deployed on **Render**:
+
+- **Frontend**: https://food-del-frontend-bxqu.onrender.com/
+- **Backend API**: https://food-del-react-backend.onrender.com/
+- **Database**: MongoDB Atlas
 
 ---
 
